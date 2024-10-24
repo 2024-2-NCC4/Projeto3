@@ -8,10 +8,9 @@
 
 ## Nome do Grupo
 
-## Integrantes: <a href="https://www.linkedin.com/in/ifelipemartins/">Felipe Martins</a>, <a href="https://www.linkedin.com/in/victorbarq/">João Vitor</a>, <a href="https://www.linkedin.com/in/victorbarq/">Yasmin Ribeiro</a>, <a href="https://www.linkedin.com/in/victorbarq/">Yusuke Urameshi</a>, <a href="https://www.linkedin.com/in/victorbarq/">Roronoa Zoro</a>
+## Integrantes: <a href="https://www.linkedin.com/in/ifelipemartins/">Felipe Martins</a>, <a href="#">João Vitor</a>, <a href="#">Yasmin Ribeiro</a>
 
-## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Dr. Victor Von Doom</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Saitama</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Strange</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Yoda</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Gero</a>
-
+## Professores Orientadores: <a href="#">Eduardo Savino </a>, <a href="#">Rodnil da Silva </a>, <a href="#">Paula Sanchez</a>, <a href="#">Lucy Mari</a>
 ## Descrição
 
 <p align="center">
