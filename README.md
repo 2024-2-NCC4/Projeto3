@@ -13,6 +13,12 @@
 ## Professores Orientadores: <a href="#">Eduardo Savino </a>, <a href="#">Rodnil da Silva </a>, <a href="#">Paula Sanchez</a>, <a href="#">Lucy Mari</a>
 ## Descrição
 
+Este projeto tem como objetivo analisar e estabelecer correlações entre o nível de qualidade dos serviços prestados pelas empresas fornecedoras de energia e o índice de satisfação dos seus clientes. A qualidade do fornecimento de energia é um fator crítico para a vida cotidiana, e as oscilações ou interrupções no serviço podem impactar diretamente na experiência do usuário.
+
+Utilizando técnicas de Ciência de Dados, este estudo irá coletar e analisar dados relativos a indicadores como a frequência e a duração de quedas de energia, o tempo de resposta e a resolução de problemas pelos atendentes, bem como outros aspectos de performance operacional das empresas. Em paralelo, serão avaliados os índices de satisfação dos clientes por meio de pesquisas, análises de mídias sociais e outros feedbacks disponíveis.
+
+O objetivo principal é identificar padrões que possam correlacionar os aspectos técnicos da qualidade do fornecimento com os níveis de satisfação, fornecendo insights valiosos para as empresas de energia, gestores e reguladores sobre áreas de melhoria e possíveis ajustes nos serviços prestados.
+
 <p align="center">
 <img src="#" alt="NOME DO JOGO" border="0">
 </p>
