@@ -6,8 +6,6 @@
 
 # Correlações entre a Qualidade dos Serviços de Fornecimento de Energia e a Satisfação dos Clientes
 
-## Nome do Grupo
-
 ## Integrantes: <a href="https://www.linkedin.com/in/ifelipemartins/">Felipe Martins</a>, <a href="#">João Vitor</a>, <a href="#">Yasmin Ribeiro</a>
 
 ## Professores Orientadores: <a href="#">Eduardo Savino </a>, <a href="#">Rodnil da Silva </a>, <a href="#">Paula Sanchez</a>, <a href="#">Lucy Mari</a>
