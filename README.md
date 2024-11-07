@@ -19,29 +19,6 @@ Utilizando técnicas de Ciência de Dados, este estudo irá coletar e analisar d
 
 O objetivo principal é identificar padrões que possam correlacionar os aspectos técnicos da qualidade do fornecimento com os níveis de satisfação, fornecendo insights valiosos para as empresas de energia, gestores e reguladores sobre áreas de melhoria e possíveis ajustes nos serviços prestados.
 
-
-## 🛠 Estrutura de pastas
-
--Raiz<br>
-|<br>
-|-->documentos<br>
-  &emsp;|-->antigos<br>
-  &emsp;|Documentação.docx<br>
-|-->imagens<br>
-|-->src<br>
-  &emsp;|-->Backend<br>
-  &emsp;|-->Frontend<br>
-|readme.md<br>
-
-
-
-<b>documentos</b>: Toda a documentação estará nesta pasta.
-
-<b>imagens</b>: Imagens do sistema
-
-<b>src</b>: Pasta que contém o código fonte.
-
-
 ## 🎓 Referências
 
 Aqui estão as referências usadas no projeto.
