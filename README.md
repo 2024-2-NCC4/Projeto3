@@ -19,17 +19,6 @@ Utilizando técnicas de Ciência de Dados, este estudo irá coletar e analisar d
 
 O objetivo principal é identificar padrões que possam correlacionar os aspectos técnicos da qualidade do fornecimento com os níveis de satisfação, fornecendo insights valiosos para as empresas de energia, gestores e reguladores sobre áreas de melhoria e possíveis ajustes nos serviços prestados.
 
-<p align="center">
-<img src="#" alt="NOME DO JOGO" border="0">
-</p>
-
-
-De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
-<br><br>
-Meu projeto ajuda estudantes FECAP a configurarem seus githubs.
-<br><br>
-May the force be with you!
-<br><br>
 
 ## 🛠 Estrutura de pastas
 
